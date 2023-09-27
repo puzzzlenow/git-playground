@@ -1,0 +1,8 @@
+
+# Change connected commit on release github
+git tag -f -a WindowsRelease e65aef6e6d4a8ce7acd16a0e2cf5bb0f0ecd586c
+git push -f origin refs/tags/WindowsRelease
+
+See more:  https://stackoverflow.com/questions/24849362/change-connected-commit-on-release-github
+
+
